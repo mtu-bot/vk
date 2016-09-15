@@ -1,0 +1,24 @@
+{
+  "name": "mtu-vk-bot",
+  "version": "1.0.0",
+  "description": "Bot for MTU contest",
+  "main": "vk-bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mtu-bot/vk.git"
+  },
+  "author": "tehcpu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mtu-bot/vk/issues"
+  },
+  "homepage": "https://github.com/mtu-bot/vk#readme",
+  "dependencies": {
+    "config": "^1.21.0",
+    "preferences": "^0.2.1",
+    "request": "^2.74.0"
+  }
+}
